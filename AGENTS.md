@@ -4,6 +4,9 @@ Rules for anyone changing this repo, people and AI coding agents alike. Setup, c
 conventions are in [docs/contributing/development.md](docs/contributing/development.md); read it
 first. This file adds how work gets done.
 
+> This checkout is **Walkup HQ**, a fork of Kinwall. Read [FORK.md](FORK.md) for its remotes,
+> upstream syncing and deployment; where it differs from the hosted-service notes below, it wins.
+
 ## How to work here
 
 - `scripts/new-feature.sh <name>` makes a worktree `../kinwall-<name>` on a fresh branch from

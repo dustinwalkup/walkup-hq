@@ -10,3 +10,11 @@ web/dist-demo/
 graphify-out/
 .env
 .env.*
+# Walkup HQ fork: more local secrets, keys, databases and OS files
+.dev.vars.*
+*.sqlite*
+encryption.key
+*.pem
+*.p8
+*.p12
+.DS_Store

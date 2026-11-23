@@ -1,6 +1,6 @@
 # Cloudflare Workers config. Lives at the repo root so a git-connected Cloudflare project works with
 # the default settings (root directory "/", deploy command `npx wrangler deploy`).
-name = "kinwall"
+name = "walkup-hq" # Walkup HQ fork (upstream: "kinwall"); also the workers.dev hostname
 main = "server/src/worker.ts"
 compatibility_date = "2026-09-24"
 compatibility_flags = ["nodejs_compat"] # tsdav needs it

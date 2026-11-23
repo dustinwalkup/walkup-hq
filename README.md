@@ -1,3 +1,8 @@
+> **Walkup HQ** is a fork of [Kinwall](https://github.com/JohnDuprey/kinwall) by John Duprey.
+> The rest of this README is Kinwall's own, unchanged. Kinwall's license (AGPL-3.0-or-later),
+> copyright and [credits](docs/contributing/credits.md) apply to this fork as-is. How this fork is
+> set up, synced and deployed is in [FORK.md](FORK.md).
+
 # Kinwall
 
 **The family life organizer, on your wall and every phone.** Your whole family, on the same page.
